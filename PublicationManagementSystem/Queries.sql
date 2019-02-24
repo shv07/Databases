@@ -1,3 +1,4 @@
+--Reference:-  https://drive.google.com/file/d/17s-ulxIpngVyawCaWKaSwre5B-JA4yiK/view
 1)
 SELECT AuthName
 FROM Author NATURAL JOIN Writes
